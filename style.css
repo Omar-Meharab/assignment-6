@@ -6,6 +6,10 @@
   position: relative;
 }
 
+.d-none{
+  display: none;
+}
+
 .gallery-header {
   display: none;
 }
@@ -63,4 +67,11 @@ img {
     height: 300px;
     width: 90%;
   }
+}
+
+.slider-style {
+  border: 3px solid #1e1743;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: black;
 }
